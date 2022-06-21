@@ -28,8 +28,10 @@ body {
     margin-right: 25%;
 } 
 .foot{
+    left: 0;
+    bottom: 0;
     width: 100%;
-    position: fixed;
+    position:fixed;
     background-color: black;
     color: white;
     text-align: center;
